@@ -1,0 +1,11 @@
+{
+  "generator-danger-plugin": {
+    "promptValues": {
+      "authorName": "",
+      "authorEmail": "",
+      "githubUsername": "",
+      "useYarn": true,
+      "useTypeScript": false
+    }
+  }
+}
