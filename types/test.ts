@@ -1,0 +1,3 @@
+import noEslintDisable from './'
+
+noEslintDisable()
