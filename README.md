@@ -29,3 +29,6 @@ See the GitHub [release history](/releases).
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+###
+<img border="0" alt="AgFlow" src="https://raw.githubusercontent.com/agflow/logos/master/agflow-logo.png" width="130" height="40"></a>
